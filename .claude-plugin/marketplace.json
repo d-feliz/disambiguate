@@ -1,0 +1,15 @@
+{
+  "name": "disambiguate",
+  "description": "The /disambiguate skill for Claude.",
+  "owner": {
+    "name": "Daniel Feliz Ferreiras"
+  },
+  "plugins": [
+    {
+      "name": "disambiguate",
+      "source": "./",
+      "description": "Interactively disambiguate an idea, request, or spec through one-at-a-time clarifying questions until every ambiguous term is pinned down, then restate the clarified idea.",
+      "version": "1.0.0"
+    }
+  ]
+}

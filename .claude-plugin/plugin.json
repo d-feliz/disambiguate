@@ -1,0 +1,12 @@
+{
+  "name": "disambiguate",
+  "description": "Interactively disambiguate an idea, request, or spec through one-at-a-time clarifying questions until every ambiguous term is pinned down, then restate the clarified idea.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Feliz Ferreiras"
+  },
+  "homepage": "https://github.com/d-feliz/disambiguate",
+  "repository": "https://github.com/d-feliz/disambiguate",
+  "license": "MIT",
+  "keywords": ["skill", "clarification", "requirements", "ambiguity"]
+}
